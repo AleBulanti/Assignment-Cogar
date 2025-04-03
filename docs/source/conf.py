@@ -33,5 +33,5 @@ html_context = {
     "github_user": "AleBulanti",
     "github_repo": "Assignment-Cogar",
     "github_version": "main",
-    "conf_by_path": "/docs/source/",
+    "conf_py_path": "/docs/source/",
 }
