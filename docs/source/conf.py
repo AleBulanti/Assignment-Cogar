@@ -25,3 +25,13 @@ exclude_patterns = []
 
 html_theme = 'sphinx_rtd_theme'
 html_static_path = ['_static']
+
+html_show_sourcelink = False
+
+html_context = {
+    "display_github": True,
+    "github_user": "AleBulanti",
+    "github_repo": "Assignment-Cogar",
+    "github_version": "main",
+    "conf_by_path": "/docs/source/",
+}
